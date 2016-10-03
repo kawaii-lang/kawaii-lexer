@@ -1,0 +1,10 @@
+# Compiled JavaScript files
+*.js
+
+# Typings
+typings/
+!typings.json
+
+# IDEA files
+.idea/
+*.iml
